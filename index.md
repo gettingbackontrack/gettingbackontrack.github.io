@@ -1,5 +1,5 @@
 ---
-title: Getting Back On Track
+title: Home Page
 layout: home
 ---
 
@@ -10,3 +10,5 @@ eating a proper diet.
 - Streak on 1 hr distraction time limit: 0
 - Weeks I exercised/hiked frequently: 0
 - Streak on proper diet: 0
+
+Everything on this site is [CC0](https://github.com/gettingbackontrack/gettingbackontrack.github.io/blob/main/LICENSE).
